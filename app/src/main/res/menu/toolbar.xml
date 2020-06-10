@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/backup"
+        android:icon="@drawable/vector_drawable_back"
+        android:title="BackUp"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/vector_drawable_delete"
+        android:title="Delete"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/vector_drawable_setting"
+        android:title="Setting"
+        app:showAsAction="never"/>
+
+</menu>
